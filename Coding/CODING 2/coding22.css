@@ -1,0 +1,26 @@
+body {
+  background-image: url(https://wallpapers.com/images/hd/judo-in-the-dark-7n4b087aytqz8jqw.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  text-align: center;
+  color: white;
+  font-size: xxx-large;
+}
+nav {
+  text-align: center;
+}
+a {
+  text-decoration: none; 
+  margin: 7px; 
+  display: inline-block;
+  color: white;
+  font-weight: bold; 
+}
+main {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
